@@ -1,9 +1,0 @@
-GoLang allows you to create your own data types
-
-Hoisting is the process of prioritizing portions of code in an uncontiguousness mannor
-
-Go zero's out any empty arrays/slices
-
-Pickling within a data structure is translating/encoding of one format of data into another that allows saving
-
-"Pickling" is a python specific idiom, but the same effect can be achieved in Go
